@@ -51,5 +51,4 @@ export type Student = {
     SchoolCode: string; 
     SchoolYear: string; 
     StudentID: number; 
-}
-export type StudentData = Student[];
+};

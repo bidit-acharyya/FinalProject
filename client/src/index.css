@@ -1,0 +1,30 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+
+li
+{
+    list-style: none;
+}
+
+.btns
+{
+    padding: 10px 20px;
+    margin-right: 6px;
+    background: transparent;
+    border: none;
+    border: 0.6px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
